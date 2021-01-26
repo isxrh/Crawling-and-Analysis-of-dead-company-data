@@ -105,7 +105,7 @@ class MainWindow(QWidget):
 if __name__ == "__main__":
     app = QApplication(sys.argv)
     app.setWindowIcon(QIcon("./images/dead_icon.png"))     # 图标
-    app.setStyleSheet(qdarkstyle.load_stylesheet_pyqt5())     # 深色背景（似乎不太好看）
+    app.setStyleSheet(qdarkstyle.load_stylesheet_pyqt5())     # 深色背景
     window = MainWindow()
     window.show()
     sys.exit(app.exec_())
