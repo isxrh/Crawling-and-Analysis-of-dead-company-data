@@ -22,7 +22,8 @@
 - `ui2020.py`：2020年数据分析展示界面代码
 - `findCompany.py`：查询产业对应的公司代码
 
-### 02. 用到的包
+### 02. env
+`python 3.8`
 `pyecharts` `csv` `selenium` `time` `re` `pandas` `PyQt5` `qdarkstyle` `sys` `functools` `collections`
 
 ### 03. 界面展示
