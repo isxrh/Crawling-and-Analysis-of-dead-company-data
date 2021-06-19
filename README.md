@@ -26,9 +26,9 @@
 
 ### 03. ui
 - #### 主界面
-![img.png](./images/主界面效果展示.png)
+![img.png](./images/主界面效果展示.png =100x100)
 - #### 二级界面
-![img_1.png](./images/二级界面效果展示.png)
+![img_1.png](./images/二级界面效果展示.png =100x100)
 
 
 
