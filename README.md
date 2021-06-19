@@ -27,11 +27,11 @@
 ### 03. ui
 - #### 主界面
 
-<img src="./images/主界面效果展示.png" width = "50%" height = "50%" alt="图片名称" align=center />
+<img src="./images/主界面效果展示.png" width = "40%" height = "40%" alt="图片名称" align=center />
 
 - #### 二级界面
 
-<img src="./images/二级界面效果展示.png" width = "50%" height = "50%" alt="图片名称" align=center />
+<img src="./images/二级界面效果展示.png" width = "58%" height = "58%" alt="图片名称" align=center />
 
 
 
